@@ -1,0 +1,677 @@
+[
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "config.database",
+        "description": "config.database",
+        "isExtraImport": true,
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "config.database",
+        "description": "config.database",
+        "isExtraImport": true,
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "config.database",
+        "description": "config.database",
+        "isExtraImport": true,
+        "detail": "config.database",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "lazyload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\ntarget_metadata = None",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "target_metadata = None\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.src.backend.main",
+        "description": "backend.src.backend.main",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nmodels.Base.metadata.create_all(bind=engine)\napp.include_router(routes.router, prefix=\"/api/v1\", tags=[\"Products\"])",
+        "detail": "backend.src.backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "backend.src.backend.models",
+        "description": "backend.src.backend.models",
+        "peekOfCode": "class Product(Base):\n    __tablename__ = \"products\"\n    id = Column(Integer, primary_key=True, index=True, autoincrement=True)\n    name = Column(String, index=True)\n    price = Column(Float, index=True)\n    quantity = Column(Integer, index=True)",
+        "detail": "backend.src.backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductRepository",
+        "kind": 6,
+        "importPath": "backend.src.backend.product_repository",
+        "description": "backend.src.backend.product_repository",
+        "peekOfCode": "class ProductRepository:\n    db: Session\n    def __init__(self, db: Session = Depends(get_db)):\n        self.db = db\n    def get_all_products(self) -> List[ProductRead]:\n        products = self.db.query(Product).all()\n        response = [\n            ProductRead.model_validate(product) for product in products\n        ]\n        print(response)",
+        "detail": "backend.src.backend.product_repository",
+        "documentation": {}
+    },
+    {
+        "label": "ProductService",
+        "kind": 6,
+        "importPath": "backend.src.backend.product_service",
+        "description": "backend.src.backend.product_service",
+        "peekOfCode": "class ProductService:\n    productRepo: ProductRepository\n    def __init__(self, productRepo: ProductRepository = Depends()):\n        self.productRepo = productRepo\n    def create_product(self, product: ProductCreate) -> Product:\n        return self.productRepo.create_product(product)\n    def get_all_products(self) -> List[ProductRead]:\n        return self.productRepo.get_all_products()\n    def get_product(self, product_id: int) -> Product:\n        return self.productRepo.get_product(product_id)",
+        "detail": "backend.src.backend.product_service",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.src.backend.routes",
+        "description": "backend.src.backend.routes",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/products\", response_model=ProductRead)\nasync def create_product(product: ProductCreate, service: ProductService = Depends()):\n    return service.create_product(product)\n@router.get(\"/products\", response_model=List[ProductRead])\nasync def get_all_products(service: ProductService = Depends()):\n    return service.get_all_products()\n@router.get(\"/products/{product_id}\", response_model=ProductRead)\nasync def get_product(product_id: int, service: ProductService = Depends()):\n    return service.get_product(product_id)",
+        "detail": "backend.src.backend.routes",
+        "documentation": {}
+    },
+    {
+        "label": "ProductBase",
+        "kind": 6,
+        "importPath": "backend.src.backend.schemas",
+        "description": "backend.src.backend.schemas",
+        "peekOfCode": "class ProductBase(BaseModel):\n    name: str\n    price: float\n    quantity: int\nclass ProductCreate(ProductBase):\n    pass\nclass ProductUpdate(ProductBase):\n    pass\nclass ProductRead(ProductBase):\n    id: int",
+        "detail": "backend.src.backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCreate",
+        "kind": 6,
+        "importPath": "backend.src.backend.schemas",
+        "description": "backend.src.backend.schemas",
+        "peekOfCode": "class ProductCreate(ProductBase):\n    pass\nclass ProductUpdate(ProductBase):\n    pass\nclass ProductRead(ProductBase):\n    id: int\n    model_config =  { \"from_attributes\": True }",
+        "detail": "backend.src.backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductUpdate",
+        "kind": 6,
+        "importPath": "backend.src.backend.schemas",
+        "description": "backend.src.backend.schemas",
+        "peekOfCode": "class ProductUpdate(ProductBase):\n    pass\nclass ProductRead(ProductBase):\n    id: int\n    model_config =  { \"from_attributes\": True }",
+        "detail": "backend.src.backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductRead",
+        "kind": 6,
+        "importPath": "backend.src.backend.schemas",
+        "description": "backend.src.backend.schemas",
+        "peekOfCode": "class ProductRead(ProductBase):\n    id: int\n    model_config =  { \"from_attributes\": True }",
+        "detail": "backend.src.backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "backend.src.config.database",
+        "description": "backend.src.config.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "PG_DATABASE_URL",
+        "kind": 5,
+        "importPath": "backend.src.config.database",
+        "description": "backend.src.config.database",
+        "peekOfCode": "PG_DATABASE_URL = os.getenv(\"PG_DATABASE_URL\")\nengine = create_engine(PG_DATABASE_URL, echo=True)\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend.src.config.database",
+        "description": "backend.src.config.database",
+        "peekOfCode": "engine = create_engine(PG_DATABASE_URL, echo=True)\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "backend.src.config.database",
+        "description": "backend.src.config.database",
+        "peekOfCode": "SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "backend.src.config.database",
+        "description": "backend.src.config.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "frontend..venv.bin.activate_this",
+        "description": "frontend..venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len('bin') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = 'frontend-py3.11' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.11/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "frontend..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "frontend..venv.bin.activate_this",
+        "description": "frontend..venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len('bin') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = 'frontend-py3.11' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.11/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)",
+        "detail": "frontend..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "frontend..venv.bin.activate_this",
+        "description": "frontend..venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = 'frontend-py3.11' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.11/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "frontend..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "frontend..venv.bin.activate_this",
+        "description": "frontend..venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = 'frontend-py3.11' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.11/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "frontend..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "frontend..venv.bin.activate_this",
+        "description": "frontend..venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = 'frontend-py3.11' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.11/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "frontend..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "frontend..venv.bin.activate_this",
+        "description": "frontend..venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in '../lib/python3.11/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "frontend..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "frontend..venv.bin.activate_this",
+        "description": "frontend..venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "frontend..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "frontend..venv.bin.activate_this",
+        "description": "frontend..venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "frontend..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "frontend..venv.bin.activate_this",
+        "description": "frontend..venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "frontend..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "frontend.src.frontend.app",
+        "description": "frontend.src.frontend.app",
+        "peekOfCode": "def index():\n    products = get_products()\n    print(products)\n    return render_template(\"index.html\", products=products, title=\"Product List\")\n@app.route(\"/create\", methods=[\"GET\", \"POST\"])\ndef create():\n    if request.method == 'POST':\n        name = request.form['name']\n        price = float(request.form['price'])\n        quantity = int(request.form['quantity'])",
+        "detail": "frontend.src.frontend.app",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "frontend.src.frontend.app",
+        "description": "frontend.src.frontend.app",
+        "peekOfCode": "def create():\n    if request.method == 'POST':\n        name = request.form['name']\n        price = float(request.form['price'])\n        quantity = int(request.form['quantity'])\n        post_product({\"name\": name, \"price\": price, \"quantity\": quantity})\n        return redirect(url_for('index'))\n    return render_template(\"form.html\", title=\"Create Product\")\n@app.route(\"/edit/<int:id>\", methods=[\"GET\", \"POST\", \"PUT\"])\ndef edit(id):",
+        "detail": "frontend.src.frontend.app",
+        "documentation": {}
+    },
+    {
+        "label": "edit",
+        "kind": 2,
+        "importPath": "frontend.src.frontend.app",
+        "description": "frontend.src.frontend.app",
+        "peekOfCode": "def edit(id):\n    product = get_product(id)\n    if request.method == 'POST':\n        name = request.form['name']\n        price = float(request.form['price'])\n        quantity = int(request.form['quantity'])\n        update_product({\"name\": name, \"price\": price, \"quantity\": quantity}, id)\n        return redirect(url_for('index'))\n    return render_template('form.html', title=\"Edit Product\", product=product)\n@app.route(\"/delete/<int:id>\", methods=[\"POST\"])",
+        "detail": "frontend.src.frontend.app",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "frontend.src.frontend.app",
+        "description": "frontend.src.frontend.app",
+        "peekOfCode": "def delete(id):\n    delete_product(id)\n    return redirect(url_for('index'))\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "frontend.src.frontend.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "frontend.src.frontend.app",
+        "description": "frontend.src.frontend.app",
+        "peekOfCode": "app = Flask(__name__)\napp.jinja_env.cache = {}\n@app.route(\"/\")\ndef index():\n    products = get_products()\n    print(products)\n    return render_template(\"index.html\", products=products, title=\"Product List\")\n@app.route(\"/create\", methods=[\"GET\", \"POST\"])\ndef create():\n    if request.method == 'POST':",
+        "detail": "frontend.src.frontend.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.jinja_env.cache",
+        "kind": 5,
+        "importPath": "frontend.src.frontend.app",
+        "description": "frontend.src.frontend.app",
+        "peekOfCode": "app.jinja_env.cache = {}\n@app.route(\"/\")\ndef index():\n    products = get_products()\n    print(products)\n    return render_template(\"index.html\", products=products, title=\"Product List\")\n@app.route(\"/create\", methods=[\"GET\", \"POST\"])\ndef create():\n    if request.method == 'POST':\n        name = request.form['name']",
+        "detail": "frontend.src.frontend.app",
+        "documentation": {}
+    },
+    {
+        "label": "get_products",
+        "kind": 2,
+        "importPath": "frontend.src.frontend.http_client",
+        "description": "frontend.src.frontend.http_client",
+        "peekOfCode": "def get_products():\n    try:\n        response = requests.get(\"http://127.0.0.1:8001/api/v1/products\")\n        response.raise_for_status()\n        if response.status_code == 200:\n            data = response.json()\n            return data\n        else:\n            return []\n    except requests.exceptions.RequestException as e:",
+        "detail": "frontend.src.frontend.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "post_product",
+        "kind": 2,
+        "importPath": "frontend.src.frontend.http_client",
+        "description": "frontend.src.frontend.http_client",
+        "peekOfCode": "def post_product(product):\n    try:\n        response = requests.post(\"http://127.0.0.1:8001/api/v1/products\", json={\n            \"name\": product['name'],\n            \"price\": product['price'],\n            \"quantity\": product['quantity']\n        })\n        response.raise_for_status()\n        if response.status_code == 201:\n            data = response.json()",
+        "detail": "frontend.src.frontend.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "update_product",
+        "kind": 2,
+        "importPath": "frontend.src.frontend.http_client",
+        "description": "frontend.src.frontend.http_client",
+        "peekOfCode": "def update_product(product, product_id):\n    try:\n        response = requests.put(f\"http://127.0.0.1:8001/api/v1/products/{product_id}\", json={\n            \"name\": product['name'],\n            \"price\": product['price'],\n            \"quantity\": product['quantity']\n        })\n        response.raise_for_status()\n        if response.status_code == 200:\n            data = response.json()",
+        "detail": "frontend.src.frontend.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "get_product",
+        "kind": 2,
+        "importPath": "frontend.src.frontend.http_client",
+        "description": "frontend.src.frontend.http_client",
+        "peekOfCode": "def get_product(product_id):\n    try:\n        response = requests.get(f\"http://127.0.0.1:8001/api/v1/products/{product_id}\")\n        response.raise_for_status()\n        if response.status_code == 200:\n            data = response.json()\n            return data\n        else:\n            return []\n    except requests.exceptions.RequestException as e:",
+        "detail": "frontend.src.frontend.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "delete_product",
+        "kind": 2,
+        "importPath": "frontend.src.frontend.http_client",
+        "description": "frontend.src.frontend.http_client",
+        "peekOfCode": "def delete_product(product_id):\n    try:\n        response = requests.delete(f\"http://127.0.0.1:8001/api/v1/products/{product_id}\")\n        response.raise_for_status()\n        if response.status_code == 200:\n            data = response.json()\n            return data\n        else:\n            return []\n    except requests.exceptions.RequestException as e:",
+        "detail": "frontend.src.frontend.http_client",
+        "documentation": {}
+    }
+]

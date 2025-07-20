@@ -1,0 +1,11 @@
+# POST http://127.0.0.1:8001/api/v1/products
+# Content-Type: application/json
+
+# {
+#     "name": "Test",
+#     "price": 1.23,
+#     "quantity": 10
+# }
+
+GET http://127.0.0.1:8001/api/v1/products
+Content-Type: application/json
